@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">WalkSafe</string>
+    <string name="teamName">Team CADE</string>
+    <string name="appName">WalkSafe</string>
+    <string name="toLoginPageText">LOGIN</string>
+    <string name="loginHere">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="loginButtonText">LOGIN</string>
+    <string name="signup">Sign Up</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="samplename">John Doe</string>
+    <string name="groups">Groups</string>
+    <string name="History">History</string>
+    <string name="scheduleTrip">Schedule Trip</string>
+    <string name="test">Test</string>
+    <string name="update">Update</string>
+    <string name="streetAddress">Street Address</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="startAddress">Start Address</string>
+    <string name="endAddress">End Address</string>
+    <string name="matchFound">Match Found!</string>
+    <string name="johndoe">John Doe</string>
+    <string name="userID">User ID</string>
+    <string name="accept">Accept</string>
+    <string name="requestJoin">Request to join group</string>
+    <string name="requestAdded">Request Added!</string>
+    <string name="tripStatus">Trip Status</string>
+    <string name="logout">Log Out</string>
+    <string name="checkrequest">Check Request</string>
+    <string name="deny">Deny</string>
+    <string name="next">Next</string>
+    <string name="requestPortal">Request Portal</string>
+    <string name="checkIncoming">Check Incoming Requests</string>
+    <string name="checkSent">Check Sent Requests</string>
+    <string name="groupStatus">Check Group Status</string>
+    <string name="status">Status</string>
+
+
+</resources>
