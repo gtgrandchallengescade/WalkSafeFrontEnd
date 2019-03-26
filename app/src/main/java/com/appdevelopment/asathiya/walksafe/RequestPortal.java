@@ -1,6 +1,8 @@
 /**
  * A request portal page by which users can see their incoming requests, sent requests, and group
  * status
+ *
+ * @author Akshay Sathiya
  */
 
 package com.appdevelopment.asathiya.walksafe;

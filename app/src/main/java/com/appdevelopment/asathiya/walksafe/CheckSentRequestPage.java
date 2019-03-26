@@ -1,6 +1,9 @@
 /**
  * Checks to see if the user has requested to join the group, requests can be accepted
  * or denied.
+ *
+ * @author Akshay Sathiya
+ * @version 1.1
  */
 
 package com.appdevelopment.asathiya.walksafe;

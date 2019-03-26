@@ -1,3 +1,10 @@
+/**
+ * Allows the user to check their group status
+ *
+ * @author Connor Bradshaw
+ * @version 1.1
+ */
+
 package com.appdevelopment.asathiya.walksafe;
 
 import android.content.Intent;
